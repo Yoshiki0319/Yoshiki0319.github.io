@@ -24,11 +24,11 @@ repository               : "Yoshiki0319/Yoshiki0319.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Yoshiki Yamaguchi"
+  pronouns         : "he/him"  
+  bio              : "Sample"
+  location         : "Davis"
+  employer         : "University of California, Davis"
   uri              : # URL
   email            : "none@example.org" 
 
