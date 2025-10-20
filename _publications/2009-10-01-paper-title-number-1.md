@@ -8,7 +8,7 @@ date: 2025-02-15
 venue: 'IEEE Access'
 slidesurl: ''
 paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10896650'
-bibtexurl: 'https://academicpages.github.io/files/IEEE Xplore Citation BibTeX Download 2025.10.20.2.23.49.bib'
+bibtexurl: 'https://academicpages.github.io/files/IEEE_Access_1.bib'
 citation: 'S. Yun et al., "Hyperdimensional Intelligent Sensing for Efficient Real-Time Audio Processing on Extreme Edge," in IEEE Access, vol. 13, pp. 43947-43955, 2025, doi: 10.1109/ACCESS.2025.3543232.'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
