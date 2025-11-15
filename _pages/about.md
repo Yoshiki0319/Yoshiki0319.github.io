@@ -75,8 +75,3 @@ My current goal is to engage in research on **medical AI and digital therapeutic
 - leverage machine learning to support diagnosis and treatment,  
 - incorporate robustness and anomaly handling for real-world clinical data, and  
 - respect privacy and ethical constraints while still providing practical value.
-
-In the long term, I hope to contribute to **trustworthy medical AI systems** that can be deployed safely and effectively in clinical and everyday healthcare settings.
-
-If you are working on related topics or are interested in potential collaboration, please feel free to contact me at:  
-`yosyamaguchi [at] ucdavis [dot] edu`.

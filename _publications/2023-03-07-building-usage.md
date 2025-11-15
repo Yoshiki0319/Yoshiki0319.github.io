@@ -1,6 +1,7 @@
 ---
 title: "[Workshop] Examination of Identification Method of Building Usage Nationwide"
 collection: publications
+category: conferences
 permalink: /publication/building-usage
 date: 2023-03-07
 venue: "The 31st Symposium of Technical Committee on Social Systems, 2023"
