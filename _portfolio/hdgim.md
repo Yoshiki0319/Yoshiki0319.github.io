@@ -1,9 +1,6 @@
 ---
-title: HDGIM: Hyperdimensional DNA Search and FeFET-style Quantization
-excerpt: >-
-  Implementation of a hyperdimensional DNA search pipeline with encoding,
-  CDF-based quantization, noise injection, and training using similarity-based
-  feedback.
+title: "HDGIM: Hyperdimensional DNA Search and FeFET-style Quantization"
+excerpt: "Implementation of a hyperdimensional DNA search pipeline with encoding, CDF-based quantization, noise injection, and training using similarity-based feedback."
 collection: portfolio
 ---
 
