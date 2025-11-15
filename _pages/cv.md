@@ -61,7 +61,7 @@ Skills
 
 * Machine learning and data analysis  
   * Experience with PyTorch, NumPy, Pandas  
-  * Worked with 3D LiDAR point clouds, sequence data, video–text datasets, and urban geospatial data  
+  * Worked with 3D LiDAR point clouds, sequence data, and video–text datasets 
 
 * Software and tools  
   * Experience with Flask, HTML/CSS/JavaScript, Socket.IO for web and backend development  
