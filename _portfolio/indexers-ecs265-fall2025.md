@@ -1,6 +1,6 @@
 ---
 title: "Ongoing - Indexers for ECS265 on Apache ResilientDB"
-excerpt: "Prototype of native vector value indexing in ResilientDB using HNSW-based similarity search and a Python bridge for embedding and index management.
+excerpt: "Prototype of native vector value indexing in ResilientDB using HNSW-based similarity search and a Python bridge for embedding and index management."
 collection: portfolio
 ---
 
