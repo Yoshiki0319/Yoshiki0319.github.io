@@ -6,20 +6,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an M.S. student in Computer Science at the University of California, Davis (expected graduation June 2027).  
-My current academic interests focus on **medical AI**, **digital therapeutics**, and **data-driven methods for improving healthcare**. I am particularly interested in how machine learning can be used to build reliable, privacy-aware systems that support diagnosis, treatment, and continuous patient monitoring.
-
-In the past, I was mainly interested in **LiDAR and 3D perception**, but through my research and internship experience I became increasingly fascinated by applications of AI to **human health** and **societal impact**. I am now looking to deepen my expertise in medical AI and digital therapeutics through intensive research in a laboratory setting.
+I am an M.S. student in Computer Science at the University of California, Davis (expected graduation June 2027). My research interests focus on building reliable, secure, and data-driven autonomous systems. I am passionate about bridging the gap between advanced machine learning techniques and their safe deployment in real-world environments, particularly in the context of future mobility and urban infrastructure.
 
 ### Research interests
 
 My current research interests include:
 
-- Medical AI and clinical decision support  
-- Digital therapeutics and data-driven healthcare intervention  
-- Semi-supervised and self-supervised learning for medical data  
-- Reliability, robustness, and anomaly detection in real-world sensor and clinical data  
-- Privacy-aware machine learning and trustworthy AI systems  
+- Robust Perception & Reliability: Enhancing the dependability of autonomous systems (e.g., LiDAR-based perception) against sensor noise and environmental anomalies.
+- Security of Intelligent Systems: Investigating vulnerabilities and developing defense mechanisms for AI-driven infrastructure and connected vehicles.
 
 ### Research experience
 
@@ -51,7 +45,7 @@ I primarily work with **Python**, and I have experience with:
 
 - Machine learning frameworks: PyTorch  
 - Scientific computing and data handling: NumPy, Pandas, SQLite  
-- General programming: C, Java  
+- General programming: C, C++, Java  
 - Web/backend development: Flask, HTML/CSS/JavaScript, Socket.IO  
 - Version control: Git
 
@@ -70,8 +64,8 @@ These awards have supported my research activities and international study exper
 
 ### Current goals
 
-My current goal is to engage in research on **medical AI and digital therapeutics**, especially projects that:
+As an M.S. student at UC Davis, my goal is to deepen my expertise in autonomous and trustworthy systems. I seek to collaborate on research projects that:
 
-- leverage machine learning to support diagnosis and treatment,  
-- incorporate robustness and anomaly handling for real-world clinical data, and  
-- respect privacy and ethical constraints while still providing practical value.
+- Improve the robustness of AI models when faced with unexpected or malicious inputs.
+- Enhance the safety of autonomous infrastructure through advanced data analytics.
+- Contribute to the development of socially impactful AI that is both reliable and ethical.
