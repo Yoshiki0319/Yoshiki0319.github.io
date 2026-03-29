@@ -6,7 +6,7 @@ permalink: /publication/building-usage
 date: 2023-03-07
 venue: "The 31st Symposium of Technical Committee on Social Systems, 2023"
 excerpt: "This study plans to identify building uses using residential land use trend surveys, the Electronic National Land Basic Map (orthoimages), and standard maps, with the goal of creating usable maps that indicate building purposes."
-paperurl: "https://takuya-harada.github.io/talks/2023-03-07-41599359"
+paperurl: "https://takuya-harada.github.io/publications/41599359"
 citation: ""
 ---
 

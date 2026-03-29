@@ -4,7 +4,7 @@ excerpt: "Implementation of a hyperdimensional DNA search pipeline with encoding
 collection: portfolio
 ---
 
-This project implements, in PyTorch, a hyperdimensional computing (HDC) pipeline for **DNA sequence search**.
+This project implements, in PyTorch, a hyperdimensional computing (HDC) pipeline for **DNA sequence search**. ([GitHub](https://github.com/Yoshiki0319/HDGIM))
 
 ### Main components
 

@@ -1,10 +1,10 @@
 ---
-title: "Indexers for ECS265 on Apache ResilientDB"
+title: "Vector Indexing for ResilientDB"
 excerpt: "Prototype of native vector value indexing in ResilientDB using HNSW-based similarity search and a Python bridge for embedding and index management."
 collection: portfolio
 ---
 
-This project extends **ResilientDB**, a permissioned blockchain / distributed database system, with **native vector value indexing** to enable similarity search on non-primary attributes. The goal is to move beyond simple key–value lookups and support efficient querying based on semantic similarity, such as searching by text descriptions instead of exact keys.  
+This project extends **ResilientDB**, a permissioned blockchain / distributed database system, with **native vector value indexing** to enable similarity search on non-primary attributes. The goal is to move beyond simple key–value lookups and support efficient querying based on semantic similarity, such as searching by text descriptions instead of exact keys. ([GitHub](https://github.com/Yoshiki0319/indexers-ECS265-Fall2025))
 
 Our design introduces a new value indexing layer that:
 
